@@ -1,7 +1,6 @@
-body{
-    background-color:red;
-    color: white;
+p{
+    background-color: aqua;
 }
-td{
-    border: 2px solid black;
+a{
+    background-color: rgb(229, 199, 64);
 }
